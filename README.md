@@ -19,7 +19,20 @@ Customer segmentation is the practice of dividing a customer base into groups of
 - **Pandas, NumPy, Matplotlib, Seaborn** – Data Analysis & Visualization
 - **Scikit-learn** – Machine Learning (KMeans, Agglomerative Clustering)
 - **Streamlit** – App Deployment
-- **Jupyter Notebook / VSCode** – Development Environment
+- **Jupyter Notebook** – Development Environment
 
 ## 📂 Project Structure
+
+## 📈 Clustering Algorithms Used
+
+- **KMeans Clustering**
+- **Agglomerative (Hierarchical) Clustering**
+- **Elbow Method** and **Dendrograms** used to determine optimal clusters
+
+## 🚀 Streamlit Deployment
+
+Run the app locally:
+```bash
+streamlit run deploy_clustering.py
+
 
